@@ -12,12 +12,18 @@
 
 
 ## Overview of the project
-### Project: Simple calculator using python
+### Simple Calculator in Python
 
-### Objective
-Python program that acts as a basic calculator. It should prompt the user to
-enter two numbers and choose an operation (addition, subtraction, multiplication,
-division,Modulus). Then, it should perform the selected operation and display the result to the
-user.
+This Python code implements a basic calculator that performs arithmetic operations on user-provided numbers.
+
+### Functionality
+
+* **Input:** Prompts the user to enter two numbers (integers expected) and an arithmetic operator (+, -, *, /, %).
+* **Operator Check:** Validates the entered operator and determines the corresponding operation.
+* **Calculation:** Performs the chosen operation on the two numbers using Python's built-in operators.
+* **Output:** Displays the calculated result in a clear and formatted string.
+* **Error Handling:** Includes basic error handling to catch invalid input (non-numeric values, division by zero).
+* **User Interface:** Maintains a simple text-based interface for user interaction.
+
 ### Output
 ![Screenshot 2024-08-04 102155](https://github.com/user-attachments/assets/263134d9-c0dc-4e40-b7bf-080ff9e4bdda)
